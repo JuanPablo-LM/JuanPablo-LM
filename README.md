@@ -13,7 +13,6 @@
 </p>
 
 
-
 ## Sobre mí
 
 Soy estudiante de Economía de la Universidad Externado de Colombia, con experiencia en investigación económica, análisis de datos y seguimiento macroeconómico. Me interesa aplicar herramientas cuantitativas y de programación al análisis de problemas económicos y financieros, combinando econometría, estadística y manejo de datos. Actualmente continúo fortaleciendo mi perfil en analítica de datos, economía aplicada y finanzas a través de proyectos académicos y personales.
