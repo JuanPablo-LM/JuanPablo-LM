@@ -1,7 +1,7 @@
 <h1 align="center">Juan Pablo Lozano Méndez</h1>
 
 <p align="center">
-  <img src="assets/banner_compuesto.png" width="100%" alt="Banner profesional de Juan Pablo Lozano">
+  <img src="assets/banner.png" width="100%" alt="Banner profesional de Juan Pablo Lozano">
 </p>
 
 <h2 align="center"> Economía · Análisis de Datos · Investigación Económica · Finanzas</h2>
