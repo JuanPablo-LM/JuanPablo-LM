@@ -25,7 +25,7 @@ Soy estudiante de Economía de la Universidad Externado de Colombia, con experie
 
 Proyecto orientado a identificar productos colombianos no minero-energéticos con potencial exportador y posibles mercados de destino. Incluye integración, validación y procesamiento de información de comercio exterior, construcción de variables y preparación de bases para análisis y modelación.
 
-[Ver repositorio](https://github.com/JuanPablo-LM/proyecto_comercio_ia)
+[Ver repositorio](https://github.com/JuanPablo-LM/proyecto_comercio_ml)
 
 ## Herramientas y tecnologías
 
