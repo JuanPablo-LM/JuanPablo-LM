@@ -7,9 +7,9 @@
 <h2 align="center"> Economía · Análisis de Datos · Investigación Económica · Finanzas</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/juan-pablo-lozano-mendez/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/juan-pablo-lozano-mendez/"><u>LinkedIn</u></a>
   ·
-  <a href="mailto:juanpa.lozano@outlook.com">Correo</a>
+  <a href="mailto:juanpa.lozano@outlook.com"><u>Correo</u></a>
 </p>
 
 
@@ -25,10 +25,12 @@ Soy estudiante de Economía de la Universidad Externado de Colombia, con experie
 
 Proyecto orientado a identificar productos colombianos no minero-energéticos con potencial exportador y posibles mercados de destino. Incluye integración, validación y procesamiento de información de comercio exterior, construcción de variables y preparación de bases para análisis y modelación.
 
-[Ver repositorio](https://github.com/JuanPablo-LM/proyecto_comercio_ml)
+[<u>Ver repositorio</u>](https://github.com/JuanPablo-LM/proyecto_comercio_ml)
 
-## Herramientas y tecnologías
+## Herramientas y Habilidades
 
-- **Análisis de datos:** Python, R, Stata y Excel.
+- **Análisis de datos y programación:** Python, R Studio, Stata, Jupyter Notebook, Machine Learning.
+- **Microsoft Office y visualización:** Excel, Power BI, Word, PowerPoint.
+- **Control de versiones y desarrollo:** Git, GitHub, VS Code.
+- **Documentación y reproducibilidad:** LaTeX, Markdown.
 - **Métodos cuantitativos:** Econometría aplicada, series de tiempo, análisis estadístico y optimización.
-- **Control de versiones:** Git y GitHub.
