@@ -27,10 +27,16 @@ Proyecto orientado a identificar productos colombianos no minero-energéticos co
 
 [<u>Ver repositorio</u>](https://github.com/JuanPablo-LM/proyecto_comercio_ml)
 
+**Python - Modelo de Markowitz - Finanzas cuantitativas**
+
+Proyecto orientado a minizar el riesgo y maximizar los rendimientos de un conjunto de activos de la BVC. Incluye visualización de precios y variación diaria y elaboración de un dashboard interactivo.
+
+[<u>Ver repositorio</u>](https://github.com/JuanPablo-LM/portafolio_activos_colombianos)
+
 ## Herramientas y Habilidades
 
-- **Análisis de datos y programación:** Python, R Studio, Stata, Jupyter Notebook, Machine Learning.
+- **Análisis de datos y programación:** Python, SQL, RStudio, Stata, Jupyter Notebook, Machine Learning.
 - **Microsoft Office y visualización:** Excel, Power BI, Word, PowerPoint.
 - **Control de versiones y desarrollo:** Git, GitHub, VS Code.
 - **Documentación y reproducibilidad:** LaTeX, Markdown.
-- **Métodos cuantitativos:** Econometría aplicada, series de tiempo, análisis estadístico y optimización.
+- **Métodos cuantitativos:** Econometría aplicada, finanzas cuantitativas, análisis estadístico y optimización.
