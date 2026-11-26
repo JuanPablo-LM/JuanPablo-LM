@@ -27,6 +27,8 @@ Proyecto orientado a identificar productos colombianos no minero-energéticos co
 
 [<u>Ver repositorio</u>](https://github.com/JuanPablo-LM/proyecto_comercio_ml)
 
+### Optimización de portafolios BVC
+
 **Python - Modelo de Markowitz - Finanzas cuantitativas**
 
 Proyecto orientado a minizar el riesgo y maximizar los rendimientos de un conjunto de activos de la BVC. Incluye visualización de precios y variación diaria y elaboración de un dashboard interactivo.
